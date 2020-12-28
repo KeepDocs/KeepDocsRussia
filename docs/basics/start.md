@@ -21,6 +21,8 @@ KEEP - основной токен сети Keep Network. Все приложе�
 - [Варианты нод:](Node-Operation/intro-operation.md) Запуск, управление, устранение неполадок на собственной ноде.
 - https://dashboard.keep.network/ Официальный дашборд Keep Network.
 
+?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/)
+
 ---
 `Источник из официальной документации Keep Team, отредактированный и дополненный сообществом. '[Источник] (https://keep-network.gitbook.io/staking-documentation/)`
 
